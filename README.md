@@ -67,8 +67,8 @@ A plot is generated showing the feasible region and optimal production point.
 - JupyterLab
 
 ---
+## 👨‍💻 Developed By
 
-## 📁 How to Run
-
-```bash
-pip install pulp matplotlib numpy
+**Junaid Ahamed**  
+_Data Science Intern @ CodTech_  
+📅 Submitted: April 2025
